@@ -1,6 +1,6 @@
 # 💍 Sri Vasavi Matrimony Bot — LangGraph Edition
 
-A Python + LangGraph rebuild of the n8n matrimonial chatbot for **Sri Vasavi Matrimony Charitable Trust by KVRSA Raju**. Runs as a clean chat interface (no WhatsApp dependency) backed by Airtable.
+A Python + LangGraph matrimonial chatbot for **Sri Vasavi Matrimony Charitable Trust by KVRSA Raju**. Runs as a clean chat interface (no WhatsApp dependency) backed by Airtable.
 
 ---
 
